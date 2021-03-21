@@ -1,6 +1,9 @@
 # harmony-bot
 A functional music discord.py bot
 
+Download Open JDK 13.0.2 (if its not play audio use 15.0.2): https://jdk.java.net/archive/
+Donwload Latest Lavalink Server Build At: https://ci.fredboat.com/viewLog.html?buildId=lastSuccessful&buildTypeId=Lavalink_Build&tab=artifacts&guest=1
+
 Prequsits:
 
 pip install lavalink
