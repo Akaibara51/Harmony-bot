@@ -13,6 +13,6 @@ pip install wavelink
 
 pip install discord.py[voice]
 
-(may vary depending on platform)
+(pip command may vary depending on platform)
 
 Simply launch the file "launcher.py" after adding your bots details and launching the lavalink server
